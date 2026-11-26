@@ -1,4 +1,4 @@
-# statementtobudget-com
+# Statement to Budget
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-statementtobudget-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://statementtobudget.com/
+Statement to Budget provides a web-based tool that converts PDF bank statements into accounting-friendly formats such as QuickBooks CSV, Xero CSV, OFX, Excel, and generic CSV. Users can upload up to three pages for free without signing up, receiving a downloadable file ready for import into budgeting or bookkeeping software. The service emphasizes privacy, does not require an account, and aims to simplify personal finance management by automating data extraction from bank statements.
+
+**Areas:** Bank Statement Conversion · PDF to CSV · QuickBooks · Xero
+
+## Statement to Budget on APIs.io
+
+Everything profiled for Statement to Budget is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/statementtobudget-com/](https://apis.io/providers/statementtobudget-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Statement to Budget Domain Security](https://apis.io/security/statementtobudget-com/statementtobudget-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Statement to Budget Plans Pricing](https://apis.io/plans/statementtobudget-com/statementtobudget-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://statementtobudget.com/)
+- [Documentation](https://www.statementtobudget.com/guides)
+- [Getting started](https://www.statementtobudget.com/guides/automated-entire-budget-complete-setup)
+- [Pricing](https://www.statementtobudget.com/pricing)
+- [Blog](https://www.statementtobudget.com/blog)
+- [Terms of service](https://www.statementtobudget.com/terms-of-service)
+- [Privacy policy](https://www.statementtobudget.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.4** — emerging · rubric 0.27.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 40.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 11.0** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/statementtobudget-com/](https://apis.io/providers/statementtobudget-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Statement to Budget: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/statementtobudget-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
